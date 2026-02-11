@@ -1,4 +1,5 @@
 # WhatsApp Bulk Messenger Automation
+## With Meta anti-ban restrictions
 
 This Python script automates sending personalized messages via **WhatsApp Web** using Selenium. It reads contacts from a CSV file and handles browser automation with anti-ban delays.
 
