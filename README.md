@@ -72,7 +72,7 @@ mensagem = f"Hello {nome}, this is a test message!"
 
 3. **Run the Script:**
 ```bash
-python your_script_name.py
+python app.py
 
 ```
 
